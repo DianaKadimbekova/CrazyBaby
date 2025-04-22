@@ -3,7 +3,7 @@
 
 Elevate your music lifestyle by creating a powerful speaker network customized to all listening scenarios, with wonderful sound and powerful connectivity. The centerpiece of Luna’s design, Luna Eye, which includes a tweeter will automatically emerge when it is powered on. This telescopic system benefits the diaphragm vibration by giving more space for the speaker inside.
 
-**[DEMO LINK](https://DianaKadimbekova.github.io/<repo_name>/)**
+**[DEMO LINK](https://DianaKadimbekova.github.io/CrazyBaby/)**
 
 **[DESIGN REFERENCE](https://www.figma.com/design/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-33)**
 
