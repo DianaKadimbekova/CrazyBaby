@@ -21,7 +21,7 @@ Elevate your music lifestyle by creating a powerful speaker network customized t
 Follow these steps to set up the project locally.
 1. Clone the repo
 ```
-git clone https://DianaKadimbekova.github.io/CrazyBaby/
+git clone https://github.com/DianaKadimbekova/CrazyBaby.git
 cd CrazyBaby
 ```
 2. Install dependencies
